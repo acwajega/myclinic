@@ -1,0 +1,19 @@
+{
+  "name": "myclinicServer",
+  "version": "1.0.0",
+  "description": "for my clinic transactions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allan Chris Wajega",
+  "license": "ISC",
+  "dependencies": {
+
+ 
+    "mysql": "*",
+    "hat":"*",
+    "underscore":"*"
+
+  }
+}
