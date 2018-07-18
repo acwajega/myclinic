@@ -9,7 +9,7 @@
    var mysql      = require('mysql');
    var connection = mysql.createConnection({
      host     : 'localhost',
-     user     : 'mcmuser',
+     user     : 'admin',
      password : 'matilda123',
      database : 'mcm_master_db'
    });
